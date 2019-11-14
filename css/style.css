@@ -365,8 +365,8 @@ p {
 }
 
 .bg-home-1 {
-  background: -webkit-gradient(linear, left top, right top, from(#1b2e59ce), to(#1b2e59));
-  background: linear-gradient(to right, #1b2e59ce, #1b2e59);
+  background: -webkit-gradient(linear, left top, right top, from(#1b2e59), to(#1b2e59));
+  background: linear-gradient(to right, #1b2e59, #1b2e59);
   background-size: cover;
   background-position: center center;
   position: relative;
@@ -680,8 +680,8 @@ p {
 }
 
 .counter {
-  background: -webkit-gradient(linear, left top, right top, from(#1b2e59ce), to(#1b2e59));
-  background: linear-gradient(to right, #1b2e59ce, #1b2e59);
+  background: -webkit-gradient(linear, left top, right top, from(#1b2e59), to(#1b2e59));
+  background: linear-gradient(to right, #1b2e59, #1b2e59);
 }
 
 .counter-icon i {
@@ -870,8 +870,8 @@ textarea.form-control {
 }
 
 .footer {
-  background: -webkit-gradient(linear, left top, right top, from(#1b2e59ce), to(#1b2e59));
-  background: linear-gradient(to right, #1b2e59ce, #1b2e59);
+  background: -webkit-gradient(linear, left top, right top, from(#1b2e59), to(#1b2e59));
+  background: linear-gradient(to right, #1b2e59, #1b2e59);
   background-size: cover;
   background-position: center center;
   position: relative;
