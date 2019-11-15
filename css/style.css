@@ -212,6 +212,13 @@ p {
   background-color: #ff5e92;
 }
 
+
+.btn-register {
+	color: #000851;
+  border-radius: 0px;
+  background-color: #ffffff;
+}
+
 .btn-white {
   color: #282828;
   background-color: #ffffff;
