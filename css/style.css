@@ -65,6 +65,21 @@ p {
   position: relative;
 }
 
+.breadcrumbs {
+	padding-top: 100px;
+  position: relative;
+}
+
+.breadcrumbs a, a:active, a:link {
+	color: inherit;
+}
+
+.blog-title_section {
+  padding-top: 40px;
+  padding-bottom: 100px;
+  position: relative;
+}
+
 .vertical-content {
   display: -moz-flex;
   display: -ms-flexbox;
