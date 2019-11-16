@@ -581,6 +581,14 @@ p {
 	width: 495px;
 }
 
+.client-images {
+	height: 50px;
+}
+
+.client-images img {
+	height: 100%;
+}
+
 .read-more {
   color: #282828;
   font-weight: 600;
