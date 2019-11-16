@@ -577,6 +577,10 @@ p {
   color: #ff5e92;
 }
 
+.features-img {
+	width: 495px;
+}
+
 .read-more {
   color: #282828;
   font-weight: 600;
