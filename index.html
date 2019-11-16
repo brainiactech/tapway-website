@@ -51,6 +51,9 @@
 						<a href="#appfeatures" class="nav-link">App Features</a>
 					</li>
 					<li class="nav-item">
+						<a href="#counter" class="nav-link">Parner With Us</a>
+					</li>
+					<li class="nav-item">
 						<a href="blog.html" class="nav-link">Blog</a>
 					</li>
 					<li class="nav-item active">
@@ -587,8 +590,9 @@
 							<span aria-hidden="true">&times;</span>
 						</button>
 					</div>
-					<div class="modal-body">
-						<form>
+					<form name="rider-reg" id="rider-reg" action="php/rider-reg.php" method="POST">
+						<div class="modal-body">
+							<div id="message"></div>
 							<div class="form-row">
 								<div class="form-group col-md-6">
 									<label for="fullname">Full Name</label>
@@ -623,12 +627,12 @@
 									<input type="text" class="form-control" id="state" name="state">
 								</div>
 							</div>
-						</form>
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-						<button type="button" class="btn btn-primary">Register</button>
-					</div>
+						</div>
+						<div class="modal-footer">
+							<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+							<button type="submit" class="btn btn-primary">Register</button>
+						</div>
+					</form>
 				</div>
 			</div>
 		</div>
@@ -646,23 +650,24 @@
 						</button>
 					</div>
 					<div class="modal-body">
-						<form>
+						<form name="merchant-registration">
 							<div class="form-row">
 								<div class="form-group col-md-6">
 									<label for="fullname">Full Name</label>
 									<input type="text" class="form-control" id="fullname" name="fullname"
-										placeholder="Full Name">
+										placeholder="Full Name" required>
 								</div>
 								<div class="form-group col-md-6">
 									<label for="email">Email</label>
-									<input type="email" class="form-control" id="email" placeholder="Email"
-										name="email">
+									<input type="email" class="form-control" id="email" placeholder="Email" name="email"
+										required>
 								</div>
 							</div>
 							<div class="form-row">
 								<div class="form-group col-md-6">
 									<label for="phone">Phone</label>
-									<input type="text" class="form-control" id="phone" placeholder="Phone" name="phone">
+									<input type="text" class="form-control" id="phone" placeholder="Phone" name="phone"
+										required>
 								</div>
 								<div class="form-group col-md-6">
 									<label for="business">Business Name</label>
@@ -689,7 +694,7 @@
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-						<button type="button" class="btn btn-primary">Register</button>
+						<button type="submit" class="btn btn-primary">Register</button>
 					</div>
 				</div>
 			</div>
