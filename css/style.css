@@ -1008,3 +1008,8 @@ textarea.form-control {
 	    background-color: #1b2e59;
 
 }
+
+.social-links img {
+	height: 20px;
+    margin-right: 10px;
+}

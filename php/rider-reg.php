@@ -34,7 +34,7 @@ if(trim($fullname) == '') {
 // Example $address = "joe.doe@yourdomain.com";
 
 //$address = "example@example.net";
-$toaddress = "hellotunmbi@gmail.com,brainiacten@gmail.com";
+$toaddress = "gabe@tapwaylogistics.com,brainiacten@gmail.com";
 
 
 // Configuration option.
