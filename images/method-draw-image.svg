@@ -2,7 +2,7 @@
 
  <g>
   <title>background</title>
-  <rect fill="#e5e5e5" id="canvas_background" height="50" width="212" y="-1" x="-1"/>
+  <rect fill="#ffffff" id="canvas_background" height="50" width="212" y="-1" x="-1"/>
  </g>
  <g>
   <title>Layer 1</title>
