@@ -59,25 +59,25 @@
 			<div class="collapse navbar-collapse" id="navbarCollapse">
 				<ul class="navbar-nav ml-auto navbar-center" id="mySidenav">
 					<li class="nav-item">
-						<a href="index.html#home" class="nav-link">Home</a>
+						<a href="index.php#home" class="nav-link">Home</a>
 					</li>
 					<li class="nav-item">
-						<a href="index.html#services" class="nav-link">Who We Are</a>
+						<a href="index.php#services" class="nav-link">Who We Are</a>
 					</li>
 					<li class="nav-item">
-						<a href="index.html#appfeatures" class="nav-link">App Features</a>
+						<a href="index.php#appfeatures" class="nav-link">App Features</a>
 					</li>
 					<li class="nav-item">
 						<a href="#counter" class="nav-link">Parner With Us</a>
 					</li>
 					<li class="nav-item">
-						<a href="blog.html" class="nav-link">Blog</a>
+						<a href="blog.php" class="nav-link">Blog</a>
 					</li>
 					<li class="nav-item active">
-						<a href="faq.html" class="nav-link">FAQ</a>
+						<a href="faq.php" class="nav-link">FAQ</a>
 					</li>
 					<li class="nav-item">
-						<a href="index.html#contact" class="nav-link">Contact</a>
+						<a href="index.php#contact" class="nav-link">Contact</a>
 					</li>
 				</ul>
 			</div>
@@ -326,25 +326,25 @@
 						<div class="col-lg-3">
 							<h5 class="f-18 text-white">Quick Links</h5>
 							<ul class="list-unstyled footer-link mt-3">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="index.html#services">Who We Are</a></li>
-								<li><a href="index.html#appfeatures">App Features</a></li>
+								<li><a href="index.php">Home</a></li>
+								<li><a href="index.php#services">Who We Are</a></li>
+								<li><a href="index.php#appfeatures">App Features</a></li>
 							</ul>
 						</div>
 
 						<div class="col-lg-3">
 							<h5 class="f-18 text-white">More Links</h5>
 							<ul class="list-unstyled footer-link mt-3">
-								<li><a href="blog.html">Blog</a></li>
-								<li><a href="faq.html">FAQ</a></li>
-								<li><a href="index.html">Contact</a></li>
+								<li><a href="blog.php">Blog</a></li>
+								<li><a href="faq.php">FAQ</a></li>
+								<li><a href="index.php">Contact</a></li>
 							</ul>
 						</div>
 
 						<div class="col-lg-3">
 							<h5 class="f-18 text-white">Other Links</h5>
 							<ul class="list-unstyled footer-link mt-3">
-								<li><a href="privacy-policy.html">Privacy Policy</a></li>
+								<li><a href="privacy-policy.php">Privacy Policy</a></li>
 							</ul>
 						</div>
 

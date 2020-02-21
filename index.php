@@ -68,10 +68,10 @@
 						<a href="#counter" class="nav-link">Partner With Us</a>
 					</li>
 					<li class="nav-item">
-						<a href="blog.html" class="nav-link">Blog</a>
+						<a href="blog.php" class="nav-link">Blog</a>
 					</li>
 					<li class="nav-item active">
-						<a href="faq.html" class="nav-link">FAQ</a>
+						<a href="faq.php" class="nav-link">FAQ</a>
 					</li>
 					<li class="nav-item">
 						<a href="#contact" class="nav-link">Contact</a>
@@ -619,25 +619,25 @@
 						<div class="col-lg-3">
 							<h5 class="f-18 text-white">Quick Links</h5>
 							<ul class="list-unstyled footer-link mt-3">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="index.html#services">Who We Are</a></li>
-								<li><a href="index.html#appfeatures">App Features</a></li>
+								<li><a href="index.php">Home</a></li>
+								<li><a href="index.php#services">Who We Are</a></li>
+								<li><a href="index.php#appfeatures">App Features</a></li>
 							</ul>
 						</div>
 
 						<div class="col-lg-3">
 							<h5 class="f-18 text-white">More Links</h5>
 							<ul class="list-unstyled footer-link mt-3">
-								<li><a href="blog.html">Blog</a></li>
-								<li><a href="faq.html">FAQ</a></li>
-								<li><a href="index.html">Contact</a></li>
+								<li><a href="blog.php">Blog</a></li>
+								<li><a href="faq.php">FAQ</a></li>
+								<li><a href="index.php">Contact</a></li>
 							</ul>
 						</div>
 
 						<div class="col-lg-3">
 							<h5 class="f-18 text-white">Other Links</h5>
 							<ul class="list-unstyled footer-link mt-3">
-								<li><a href="privacy-policy.html">Privacy Policy</a></li>
+								<li><a href="privacy-policy.php">Privacy Policy</a></li>
 							</ul>
 						</div>
 

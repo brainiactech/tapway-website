@@ -3,14 +3,13 @@
 
 <head>
 	<meta charset="utf-8" />
-	<title>Blog | Tapway</title>
+	<title>FAQ | Tapway</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description"
 		content="Tapway offers easy scheduling from our website. Select a specific delivery time to ensure our courier partners deliver exactly when you want." />
-	<meta name="keywords"
-		content="Tapway offers easy scheduling from our website. Select a specific delivery time to ensure our courier partners deliver exactly when you want." />
+	<meta name="keywords" content="tapway, delivery, door-to-door" />
 	<meta
-		content="Tapway, tapwaylogistics,tapway, delivery, door-to-door, logistics, package, shipping, naija, nigeria, lagos, tapway logistics,tapwaylogistics.com, jumia, max.ng, bolt, Blog, tapway blog"
+		content="Tapway, tapwaylogistics,tapway, delivery, door-to-door, logistics, package, shipping, naija, nigeria, lagos, tapway logistics,tapwaylogistics.com, jumia, max.ng, bolt, FAQ, Nigeria, start up"
 		name="author" />
 	<!-- favicon -->
 	<link rel="shortcut icon" href="images/TAPWAY-FAVICON.svg">
@@ -62,25 +61,25 @@
 			<div class="collapse navbar-collapse" id="navbarCollapse">
 				<ul class="navbar-nav ml-auto navbar-center" id="mySidenav">
 					<li class="nav-item">
-						<a href="index.html#home" class="nav-link">Home</a>
+						<a href="index.php#home" class="nav-link">Home</a>
 					</li>
 					<li class="nav-item">
-						<a href="index.html#services" class="nav-link">Who We Are</a>
+						<a href="index.php#services" class="nav-link">Who We Are</a>
 					</li>
 					<li class="nav-item">
-						<a href="index.html#appfeatures" class="nav-link">App Features</a>
+						<a href="index.php#appfeatures" class="nav-link">App Features</a>
 					</li>
 					<li class="nav-item">
 						<a href="#counter" class="nav-link">Parner With Us</a>
 					</li>
+					<li class="nav-item">
+						<a href="blog.php" class="nav-link">Blog</a>
+					</li>
 					<li class="nav-item active">
-						<a href="blog.html" class="nav-link">Blog</a>
+						<a href="faq.php" class="nav-link">FAQ</a>
 					</li>
 					<li class="nav-item">
-						<a href="faq.html" class="nav-link">FAQ</a>
-					</li>
-					<li class="nav-item">
-						<a href="index.html#contact" class="nav-link">Contact</a>
+						<a href="index.php#contact" class="nav-link">Contact</a>
 					</li>
 				</ul>
 			</div>
@@ -94,144 +93,113 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
-					<h1 class="title-heading text-center">Our Blog</h1>
-					<p class="title-desc text-center text-muted mt-4">&nbsp;
-					</p>
+					<h1 class="title-heading text-center">Frequently Asked Questions</h1>
+					<p class="title-desc text-center text-muted mt-4">Here, we provide answers to some of our frequently
+						asked questions. However, if
+						you still cannot find the answers you are looking for, please feel free to contact us.</p>
 				</div>
 			</div>
 
-			<div class="row mt-4 py-5">
-				<div class="col-lg-6">
-					<div class="features-img text-center mt-5">
-						<img src="images/same-day-delivery.jpg" class="img-fluid" alt="">
-					</div>
-				</div>
-
-				<div class="col-lg-6">
-					<div class="features-content mt-5">
-						<h4 class="line-height_1_4 mt-3">Importance of same day or last mile delivery</h4>
-						<p class="text-muted mt-3">Companies follow a stringent procedure to ensure that every aspect of
-							the customer
-							experience and the delivery of the product is managed from start to finish. You could
-							correctly package <goods class=""></goods>
-						</p>
-						<div class="mt-4">
-							<a href="./blog/importance-of-same-day-or-last-mile-delivery.html" class="read-more">Read
-								more
-								<i class="mdi mdi-chevron-right"></i></a>
+			<div class="row mt-5 vertical-content">
+				<div class="col-lg-12">
+					<div class="mt-4">
+						<div class="faq mt-3">
+							<div class="faq-icon float-left">
+								<i class="mdi mdi-help-circle"></i>
+							</div>
+							<div class="faq-content pl-4">
+								<h5 class="faq-title mt-2 f-18">What is Tapway Logistics?</h5>
+								<p class="mb-0 text-muted  mt-3">Tapway Logistics is your same-day delivery platform
+									aiming to transform the way
+									supply chain services are conducted by democratizing logistics. Using a combination
+									of advanced technologies and connecting retailers, businesses, and drivers in a
+									secure platform, we facilitate the rapid last-mile delivery of goods.</p>
+							</div>
 						</div>
-					</div>
-				</div>
-			</div>
 
-			<div class="row  py-5">
-				<div class="col-lg-6">
-					<div class="features-img text-center mt-5">
-						<img src="images/poverty-alleviation1.jpg" class="img-fluid" alt="">
-					</div>
-				</div>
-				<div class="col-lg-6">
-					<div class="features-content mt-5">
-						<h4 class="line-height_1_4 mt-3">Harnessing the Opportunity of Alleviating Poverty Using Tapway
-							Courier</h4>
-						<p class="text-muted mt-3">The supply chain sector consists of traditional fleet carriers,
-							costly fuel, and program
-							requirements, and manual tracking that takes time and effort. Beyond any
-							reasonable doubt, the logistics sector across the world continue to face challenges
-							when looking to provide its customers, the fast, effective, and reliable delivery and
-							transport of goods.
-						</p>
-						<div class="mt-4">
-							<a href="./blog/harnessing-the-opportunity-of-alleviating-poverty-using-tapway.html"
-								class="read-more">Read more <i class="mdi mdi-chevron-right"></i></a>
+						<div class="faq mt-3">
+							<div class="faq-icon float-left">
+								<i class="mdi mdi-help-circle"></i>
+							</div>
+							<div class="faq-content pl-4">
+								<h5 class="faq-title mt-2 f-18">How are Your Services Different from a Dedicated Fleet?
+								</h5>
+								<p class="mb-0 text-muted mt-3">Unlike the cost of a dedicated fleet and the scheduled
+									times it takes to transport
+									goods, we introduce crowdsourcing logistics and an API for business. Through our
+									technologies, we provide our customers with a choice that cannot be provided with a
+									regular carrier. Our solutions also allow you to rate and review our drivers, so you
+									always have access to the very best service in support of your business.</p>
+							</div>
 						</div>
-					</div>
-				</div>
 
-			</div>
-
-
-			<div class="row vertical-content  py-5">
-				<div class="col-lg-6">
-					<div class="features-img text-center mt-5">
-						<img src="images/logistics-ecommerce.jpeg" class="img-fluid" alt="">
-					</div>
-				</div>
-				<div class="col-lg-6">
-					<div class="features-content mt-5">
-						<h4 class="line-height_1_4 mt-3">Relationship between logistics and E-Commerce
-						</h4>
-						<p class="text-muted mt-3">Logistics is an integral part of the way countries around the world
-							are carrying out
-							businesses. From the way companies receive their goods to the sale and transport
-							of products locally and abroad, logistics has become a major driving force for
-							professional economies. This is because there is a rise within E-commerce practices
-							and demand from consumers for faster and more effective forms of transport and
-							distribution.
-						</p>
-						<div class="mt-4">
-							<a href="./blog/relationship-between-logistics-and-e-commerce.html" class="read-more">Read
-								more <i class="mdi mdi-chevron-right"></i></a>
+						<div class="faq mt-3">
+							<div class="faq-icon float-left">
+								<i class="mdi mdi-help-circle"></i>
+							</div>
+							<div class="faq-content pl-4">
+								<h5 class="faq-title mt-2 f-18">Is it Secure to Use Tapway Logistics?</h5>
+								<p class="mb-0 text-muted mt-3">Yes. Tapway Logistics is entirely secure and reliable,
+									offering our clients the chance
+									to connect in our platform and benefit from affordable and fast services.
+									When we hire our drivers, we ensure that a verification process is completed to
+									provide our clients with the most cost-effective, only the safest services in the
+									industry. From driving records to proof of experience and transport dependability,
+									we
+									go the extra mile to ensure the people we help your business connect to, are
+									reliable
+									and will deliver on their promises.</p>
+							</div>
 						</div>
+
 					</div>
 				</div>
-			</div>
 
-
-			<div class="row vertical-content  py-5">
-				<div class="col-lg-6">
-					<div class="features-img text-center mt-5">
-						<img src="images/supply-chain.jpg" class="img-fluid" alt="">
-					</div>
-				</div>
-				<div class="col-lg-6">
-					<div class="features-content mt-5">
-						<h4 class="line-height_1_4 mt-3">Disruptive Technology In Supply Chain
-						</h4>
-						<p class="text-muted mt-3">While technology has been recognized as a driving force in supply
-							chain and
-							logistics services, some technologies are responsible for limitations across the
-							success and seamless process of the supply chain. Supply chains face many
-							challenges, and with the growth of technologies, more companies are looking at
-							whether disruptive technology could serve as the future of successful and seamless
-							logistics.
-						</p>
-						<div class="mt-4">
-							<a href="./blog/disruptive-technology-in-supply-chain.html" class="read-more">Read more <i
-									class="mdi mdi-chevron-right"></i></a>
+				<div class="col-lg-12">
+					<div class="mt-4">
+						<div class="faq mt-3">
+							<div class="faq-icon float-left">
+								<i class="mdi mdi-help-circle"></i>
+							</div>
+							<div class="faq-content pl-4">
+								<h5 class="faq-title mt-2 f-18">Why Should I Rate Your Drivers?</h5>
+								<p class="mb-0 text-muted  mt-3">To ensure we continue to provide our customers with the
+									most impressive and
+									reliable services, we rely on your driver ratings. At Tapway Logistics, we ensure
+									that
+									our drivers with the very best scores are maintained in our system. This way, we can
+									assure our customers of consistent, high-quality service standards.</p>
+							</div>
 						</div>
-					</div>
-				</div>
-			</div>
 
-
-			<div class="row vertical-content  py-5">
-				<div class="col-lg-6">
-					<div class="features-img text-center mt-5">
-						<img src="images/logistics-africa.jpg" class="img-fluid" alt="">
-					</div>
-				</div>
-				<div class="col-lg-6">
-					<div class="features-content mt-5">
-						<h4 class="line-height_1_4 mt-3">Current Situation of Logistics In Africa
-						</h4>
-						<p class="text-muted mt-3">Cargo transportation and logistics remains an integral part of
-							business operations
-							and is a significant driving economic force for entire countries. Through imports and
-							exports, individuals, retailers, and businesses receive and sell goods and support the
-							maintenance of a thriving economy. Transport logistics has been undergoing
-							significant changes in Africa. While many challenges persist, the introduction of
-							leading technologies are set to make a difference in the way logistics is conducted
-							and managed.
-						</p>
-						<div class="mt-4">
-							<a href="./blog/current-situation-of-logistics-in-africa.html" class="read-more">Read more
-								<i class="mdi mdi-chevron-right"></i></a>
+						<div class="faq mt-3">
+							<div class="faq-icon float-left">
+								<i class="mdi mdi-help-circle"></i>
+							</div>
+							<div class="faq-content pl-4">
+								<h5 class="faq-title mt-2 f-18">Who is Responsible for Delivering Purchases?</h5>
+								<p class="mb-0 text-muted mt-3">The Tapway Logistics drivers who have been carefully
+									selected by Tapway Logistics
+									will be responsible for the delivery of your purchases. These drivers include
+									individuals from the general community who wish to earn an extra income while
+									providing businesses and merchants the flexible delivery services needed. We
+									complete background checks and ensure they have licensed drivers before
+									assigning drivers to our platform.</p>
+							</div>
 						</div>
+
 					</div>
 				</div>
+
 			</div>
 
+			<div class="row mt-5 text-center">
+				<div class="col-lg-12">
+					<p><em>If you wish to learn more about the ways Tapway Logistics can transform your
+							interests and logistical needs, please speak to us. We are happy to help you with
+							your shipping strategy in a fast, affordable, and effective manner.</em></p>
+				</div>
+			</div>
 		</div>
 	</section>
 	<!-- END FEATURES -->
@@ -314,25 +282,25 @@
 						<div class="col-lg-3">
 							<h5 class="f-18 text-white">Quick Links</h5>
 							<ul class="list-unstyled footer-link mt-3">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="index.html#services">Who We Are</a></li>
-								<li><a href="index.html#appfeatures">App Features</a></li>
+								<li><a href="index.php">Home</a></li>
+								<li><a href="index.php#services">Who We Are</a></li>
+								<li><a href="index.php#appfeatures">App Features</a></li>
 							</ul>
 						</div>
 
 						<div class="col-lg-3">
 							<h5 class="f-18 text-white">More Links</h5>
 							<ul class="list-unstyled footer-link mt-3">
-								<li><a href="blog.html">Blog</a></li>
-								<li><a href="faq.html">FAQ</a></li>
-								<li><a href="index.html">Contact</a></li>
+								<li><a href="blog.php">Blog</a></li>
+								<li><a href="faq.php">FAQ</a></li>
+								<li><a href="index.php">Contact</a></li>
 							</ul>
 						</div>
 
 						<div class="col-lg-3">
 							<h5 class="f-18 text-white">Other Links</h5>
 							<ul class="list-unstyled footer-link mt-3">
-								<li><a href="privacy-policy.html">Privacy Policy</a></li>
+								<li><a href="privacy-policy.php">Privacy Policy</a></li>
 							</ul>
 						</div>
 
