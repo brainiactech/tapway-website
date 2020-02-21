@@ -48,7 +48,7 @@
 	<nav class="navbar navbar-expand-lg fixed-top navbar-custom sticky sticky-dark custom-nav">
 		<div class="container">
 			<!-- LOGO -->
-			<a class="navbar-brand logo text-uppercase" href="index.html">
+			<a class="navbar-brand logo text-uppercase" href="index.php">
 				<img src="images/TAPWAY.svg" class="logo-light" alt="" height="90">
 				<img src="images/TAPWAY-blue.svg" class="logo-dark" alt="" height="90">
 			</a>
@@ -68,7 +68,7 @@
 						<a href="index.php#appfeatures" class="nav-link">App Features</a>
 					</li>
 					<li class="nav-item">
-						<a href="#counter" class="nav-link">Parner With Us</a>
+						<a href="index.php#counter" class="nav-link">Parner With Us</a>
 					</li>
 					<li class="nav-item">
 						<a href="blog.php" class="nav-link">Blog</a>
@@ -337,7 +337,7 @@
 							<ul class="list-unstyled footer-link mt-3">
 								<li><a href="blog.php">Blog</a></li>
 								<li><a href="faq.php">FAQ</a></li>
-								<li><a href="index.php">Contact</a></li>
+								<li><a href="index.php#contact">Contact</a></li>
 							</ul>
 						</div>
 

@@ -45,7 +45,7 @@
 	<nav class="navbar navbar-expand-lg fixed-top navbar-custom sticky sticky-dark">
 		<div class="container">
 			<!-- LOGO -->
-			<a class="navbar-brand logo text-uppercase" href="index.html">
+			<a class="navbar-brand logo text-uppercase" href="index.php">
 				<img src="images/TAPWAY.svg" class="logo-light" alt="" height="90">
 				<img src="images/TAPWAY-blue.svg" class="logo-dark" alt="" height="90">
 			</a>
@@ -630,7 +630,7 @@
 							<ul class="list-unstyled footer-link mt-3">
 								<li><a href="blog.php">Blog</a></li>
 								<li><a href="faq.php">FAQ</a></li>
-								<li><a href="index.php">Contact</a></li>
+								<li><a href="#contact">Contact</a></li>
 							</ul>
 						</div>
 
