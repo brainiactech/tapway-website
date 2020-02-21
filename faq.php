@@ -70,7 +70,7 @@
 						<a href="index.php#appfeatures" class="nav-link">App Features</a>
 					</li>
 					<li class="nav-item">
-						<a href="#counter" class="nav-link">Parner With Us</a>
+						<a href="index.php#counter" class="nav-link">Parner With Us</a>
 					</li>
 					<li class="nav-item">
 						<a href="blog.php" class="nav-link">Blog</a>
