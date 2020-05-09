@@ -36,6 +36,26 @@
 		gtag('config', 'UA-154721369-1');
 	</script>
 
+	<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '2451289724975909'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=2451289724975909&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
 
 </head>
 
@@ -92,8 +112,7 @@
 						<div class="col-lg-6">
 							<div class="home-content">
 								<h3 class="home-title">Say 'Hello' to Delivery for small businesses</h3>
-								<p class="home-desc line-height_1_8 mt-4 text-white-50">Your local, same day network
-									with Quality and Happiness delivered is finally here</p>
+								<p class="home-desc line-height_1_8 mt-4 text-white-50">Your local same day delivery company, offering top quality and ease for all your logistics needs.</p>
 								<div class="mt-5">
 									<a href="#downloadapp" class="btn btn-white btn-round">Get Started <i
 											class="mdi mdi-arrow-right"></i></a>
@@ -350,10 +369,9 @@
 			<div class="row">
 				<div class="col-lg-12 text-center">
 					<div class="mt-5">
-						<a href="" class="btn btn-register mr-5 btn-round" data-toggle="modal"
-							data-target="#riderModal">Rider Registration<i class="mdi mdi-arrow-right"></i></a>
-						<a href="" class="btn btn-register  btn-round" data-toggle="modal"
-							data-target="#merchantModal">Merchant Registration<i class="mdi mdi-arrow-right"></i></a>
+						<a class="typeform-share button" href="https://makindeteniola.typeform.com/to/gsFH4c" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#267DDD;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:25px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" data-submit-close-delay="0" target="_blank">Rider registration</a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+
+						<a class="typeform-share button" href="https://makindeteniola.typeform.com/to/xyY95y" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#DD2663;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:25px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" data-submit-close-delay="3" target="_blank">Merchant registration </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
 					</div>
 				</div>
 			</div>
@@ -530,7 +548,7 @@
 
 				<div class="col-lg-3">
 					<div class="client-images">
-						<img src="images/method-draw-image.svg" alt="logo-img" class="mx-auto img-fluid d-block">
+						<img src="images/VerifyMe-Launches-Integrated-Identity-Verification-Platform.jpg" alt="logo-img" class="mx-auto img-fluid d-block">
 					</div>
 				</div>
 
@@ -658,6 +676,16 @@
 								<a href="https://www.twitter.com/tapwaylogistics" target="_blank"><img
 										src="./images/twitter-icon-square-logo-preview-400x400.png" alt=""></a>
 							</div>
+
+
+							<div class="row mt-5">
+				<div class="col-lg-12">
+					<p class="footer-alt text-right text-white-50 mb-0">
+						No 1, Akinwunmi Street, opposite Rowe park, Casino bus stop, Alagomeji, Yaba.
+					</p>
+				</div>
+			</div>
+
 						</div>
 					</div>
 				</div>
@@ -672,6 +700,8 @@
 					</p>
 				</div>
 			</div>
+
+			
 			<!-- END FOOTER-ALT -->
 
 		</div>
@@ -679,6 +709,7 @@
 
 		<!-- Modals.. -->
 		<!-- Rider Modal -->
+		
 		<div class="modal fade" id="riderModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
 			aria-hidden="true">
 			<div class="modal-dialog" role="document">
