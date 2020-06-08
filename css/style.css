@@ -770,6 +770,12 @@ a:link {
     margin: 0 auto;
 }
 
+@media screen and (min-width:1025px) {
+    .client-desc {
+        min-height: 200px;
+    }
+}
+
 .owl-theme .owl-controls {
     margin-top: 70px;
 }
