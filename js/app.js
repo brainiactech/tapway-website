@@ -5,10 +5,10 @@
    File Description: Main JS file of the template
 */
 
-(function ($) {
+(function($) {
 
     'use strict';
-    
+
     // STICKY
     $(window).scroll(function() {
         var scroll = $(window).scrollTop();
@@ -35,3 +35,18 @@
     });
 
 })(jQuery)
+
+
+// FAQs Accordion
+
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+    acc[i].onclick = function() {
+        this.classList.toggle("active");
+        this.nextElementSibling.classList.toggle("show");
+    }
+}
+
+// END FAQs Accordion
