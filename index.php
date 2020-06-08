@@ -569,8 +569,8 @@
 	</section>
 	<!-- END CLIENT-LOGO -->
 
-	 <!-- START FAQs -->
-	 <section class="section" id="faqs">
+   <!-- START FAQs -->
+   <section class="section" id="faqs">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -585,28 +585,100 @@
                         <div class="faq">
 
                             <button class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
-                                Is the summit optional to reduce costs?
+                                HOW DO I SIGN UP?
                             </button>
                             <div class="panel">
-                                <p>No. We budgeted for the summit with the expectation that each employee will attend. We have made the summit optional in response to the Google Survey we sent out at the conclusion of the summer summit. We review the information
-                                    and come up with reasonable modifications to make the most successful event possible. We want our entire work family to attend. These summits are very beneficial for group collaboration and to better understand our
-                                    products and services.</p>
-                            </div>
-
-                            <button class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">I am a Naperville employee and I don’t want 
-                                to participate in the summit, can I just work from home that week?
-                            </button>
-                            <div class="panel">
-                                <p>No. If you are a Naperville employee, you should expect your day to be business as usual. Come to the office, and work from your desk.</p>
+                                <p>It's really simple! The process is automated and flexible to your schedule. You can reach out to the Community Team at any point. Email drive@tapwaylogistics.com All you'll need to do is:
+                                    <ul>
+                                        <li>Start your application on-line. Click here to begin.</li>
+                                        <li>Complete our online screening process.</li>
+                                        <li>Once qualified, you will need to submit required documentation.</li>
+                                        <li>Pass a DMV and background check.</li>
+                                        <li>Complete our online certification & pass a short quiz.</li>
+                                        <li>Submit your availability and start delivering!</li>
+                                    </ul>
+                                </p>
                             </div>
 
                             <button class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
-                                Will this count against me if I don’t go?
+                                HOW WILL I BE COMPENSATED?
+                            </button>
+                            <div class="panel">
+                                <p>If you accept and complete deliveries, earnings will be paid weekly. You will also receive a statement of your settlement each week.</p>
+                                <p>Tapway Driver Partners are paid per delivery task.</p>
+                                <p>If you have further questions, you can refer to your Independent Contractor Agreement or contact our support team.</p>
+                            </div>
+
+                            <button class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+                                CAN I CHOOSE MY OWN HOURS?
                             </button>
 
                             <div class="panel">
-                                <p>No. This will not be reflected in your review or impact your standing in the company. Please note, your manager may reach out to understand why you wouldn’t or couldn’t attend. It’s important for us to understand to always
-                                    make these events and our processes better.
+                                <p>Yes! As an independent contractor partnering with Tapway, you always have ultimate control over your schedule.</p>
+                                <p>You select the hours you want to Deliver each week. Want to take a vacation? No wahala. Only want to Deliver in the mornings? Awesome!</p>
+                                <p>Simply grab hours on the schedule. The schedule is released weekly - schedule release is a great time to grab hours! More hours are added daily so check back!</p>
+                                <p>Driver partners that took our recent survey all agreed that the #1 thing they love about Tapway is our fantastic flexibility when it comes to scheduling.</p>
+                            </div>
+
+                            <button class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+                                WHAT WILL I BE DELIVERING?
+                            </button>
+
+                            <div class="panel">
+                                <p>Items from malls and retailers including, but not limited to, clothing, flowers and gift baskets including alcohol (ID check of customer required when delivering alcohol). No shopping or money transactions required.</p>
+                            </div>
+
+                            <button class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+                                HOW LONG ARE DELIVERY ROUTES AND WHERE WILL ITEMS BE DELIVERED?
+                            </button>
+
+                            <div class="panel">
+                                <p>Deliveries are generally made within a 15-mile radius of the given pickup location. <br /> Typically, items are delivered to residences, hotels, and workplaces, but we go pretty much wherever the customers may be.</p>
+                            </div>
+
+                            <button class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+                                CAN I DELIVER BY FOOT OR BIKE?
+                            </button>
+
+                            <div class="panel">
+                                <p>All of our markets are motorcycle with compatible storage unit and car only, delivery for bicycle coming soon.</p>
+                            </div>
+
+                            <button class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+                                WHAT TYPE OF SMARTPHONE IS REQUIRED?
+                            </button>
+
+                            <div class="panel">
+                                <p>
+                                    <ul>
+                                        <li>Android or iPhone</li>
+                                        <li>Data and text plan required</li>
+                                        <li>Phone must remain ‘on’ and charged in order to receive and complete delivery</li>
+                                        <li>Use and integrate your favorite navigational app!</li>
+                                    </ul>
+                                </p>
+                            </div>
+
+                            <button class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+                                WHAT IS TAPWAY'S INSURANCE POLICY?
+                            </button>
+
+                            <div class="panel">
+                                <p>We hope that you never get into an accident but accidents do happen, and it’s important you know how and when our policies cover you. The following is an overview of how our insurance policies work and the coverages included
+                                    in our insurance policies (unless otherwise noted, these coverages are in effect from the time you pickup a package until the time you deliver the last package in app).
+
+                                    <i class="faq-note"> Note:</i> You must carry state minimum limits of Insurance on your personal auto and carry a valid license in good standing to be covered.
+
+                                    <span class="faq-headerText">Liability Coverage</span> Our insurance policy is designed to kick in if you are in an accident and at fault and your personal insurance denies coverage, or the limits are exhausted. The
+                                    policy has a $1,000,000 per accident and an additional access policy to max limit of $ 10,000,000.
+
+                                    <span class="faq-headerText">Contingent Collision Coverage</span> Our contingent collision coverage is designed to cover physical damage to your vehicle resulting from an accident as long as you have obtained collision
+                                    coverage on your personal automobile policy. The policy has a $2,500 deductible and a $50,000 maximum for physical damage to your vehicle. This policy is designed to step in if the party at fault falls short or are
+                                    uninsured and your personal insurance fails to respond.
+
+                                    <span class="faq-headerText">Contingent Comprehensive Coverage</span> Our contingent collision coverage is designed to cover physical damage to your vehicle resulting from a non-collision event (for example a fire,
+                                    vandalism, a natural disaster, etc.) as long as you have obtained comprehensive coverage on your personal automobile policy. The Deliv policy is a $2500 deductible and a $50000 maximum for physical damage to your vehicle.
+                                    This policy kicks in if your personal insurance fails to respond.
                                 </p>
                             </div>
 
