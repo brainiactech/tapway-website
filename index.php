@@ -18,6 +18,7 @@
 	<!-- css -->
 	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 	<link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 	<!--Slider-->
 	<link rel="stylesheet" href="css/owl.carousel.css" />
@@ -567,6 +568,56 @@
 		</div>
 	</section>
 	<!-- END CLIENT-LOGO -->
+
+	 <!-- START FAQs -->
+	 <section class="section" id="faqs">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="title-heading text-center">Driver FAQ</h1>
+                </div>
+            </div>
+
+            <div class="row justify-content-center mt-5">
+                <div class="col-lg-10">
+                    <div class="faqsRow__content">
+
+                        <div class="faq">
+
+                            <button class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+                                Is the summit optional to reduce costs?
+                            </button>
+                            <div class="panel">
+                                <p>No. We budgeted for the summit with the expectation that each employee will attend. We have made the summit optional in response to the Google Survey we sent out at the conclusion of the summer summit. We review the information
+                                    and come up with reasonable modifications to make the most successful event possible. We want our entire work family to attend. These summits are very beneficial for group collaboration and to better understand our
+                                    products and services.</p>
+                            </div>
+
+                            <button class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">I am a Naperville employee and I don’t want 
+                                to participate in the summit, can I just work from home that week?
+                            </button>
+                            <div class="panel">
+                                <p>No. If you are a Naperville employee, you should expect your day to be business as usual. Come to the office, and work from your desk.</p>
+                            </div>
+
+                            <button class="accordion ui-accordion ui-widget ui-helper-reset" role="tablist">
+                                Will this count against me if I don’t go?
+                            </button>
+
+                            <div class="panel">
+                                <p>No. This will not be reflected in your review or impact your standing in the company. Please note, your manager may reach out to understand why you wouldn’t or couldn’t attend. It’s important for us to understand to always
+                                    make these events and our processes better.
+                                </p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END FAQs -->
 
 	<!-- START CONTACT -->
 	<section class="section" id="contact">
